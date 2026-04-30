@@ -18,7 +18,7 @@
    ტრანზაქციების. NaN-ების დასაფიქსირებული ფლეგებიც შემოვიღე და ბოლო კატეგორიული ცვლადები კარდინალობის მიხედვით woe და
    one-hot-ით დავამუშავე.
    
-   ![Feature Importance Chart](./Pictures/iv_features.png)
+   ![Feature Importance Chart](./Pictures/iv-features.png)
 
 3. Feature Selection
    
