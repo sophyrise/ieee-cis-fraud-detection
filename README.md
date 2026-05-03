@@ -106,6 +106,10 @@ Gradient Boosting
 განსხვავებას კარგად ანახებს — XGBoost-ს რამდენიმე წუთი დასჭირდა, Gradient Boosting-ს საათები. ამიტომაც გავაჩერე და
 ვინაიდან მისი შედეგი xgboost-ზე უარესი იყო, აღარც გავატარე ბოლომდე.
 
+
+![XGBoost Analysis](./Pictures/gb_training_summary.png)
+
+
 Neural Networks
 
 Neural Network ერთ-ერთი ყველაზე ტანჯული მოდელია. 590k სტრიქონზე გაშვება პრაქტიკულად შეუძლებელი იყო cpu-ს გამო, ამიტომ
