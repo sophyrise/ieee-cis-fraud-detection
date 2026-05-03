@@ -126,6 +126,9 @@ CV mean AUC=0.935-თან შედარებით ეს მოსალ�
 ეჯიბრება neural network.
 
 
+![Neural Networks Analysis](./Pictures/neural-network-summary.png)
+
+
 
 
    
